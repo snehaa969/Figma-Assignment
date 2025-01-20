@@ -1,0 +1,178 @@
+{ 
+  "trendingNow": [
+    { "id": 1, "text": "CBSE Class 12 Physics Question Paper 2024 Set 3" },
+    { "id": 2, "text": "IIT JEE Main 2024 Registration Opens" },
+    { "id": 3, "text": "NEET 2024 Syllabus Released" }
+  ],
+  "newsCategories": {
+    "allNews": [
+      {
+        "id": 1,
+        "title": "What is the latest program that you are offering in your institute?",
+        "description": "Lucknow Public College of Professional Studies...",
+        "date": "27 Dec 2020",
+        "image": "/rectangle-2905@2x.png"
+      },
+      {
+        "id": 2,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      },
+      {
+        "id": 3,
+        "title": "What is the latest program that you are offering in your institute?",
+        "description": "Lucknow Public College of Professional Studies...",
+        "date": "27 Dec 2020",
+        "image": "/rectangle-2905@2x.png"
+      },
+      {
+        "id": 4,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      },
+      {
+        "id": 5,
+        "title": "What is the latest program that you are offering in your institute?",
+        "description": "Lucknow Public College of Professional Studies...",
+        "date": "27 Dec 2020",
+        "image": "/rectangle-2905@2x.png"
+      },
+      {
+        "id": 6,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      },
+      {
+        "id": 7,
+        "title": "What is the latest program that you are offering in your institute?",
+        "description": "Lucknow Public College of Professional Studies...",
+        "date": "27 Dec 2020",
+        "image": "/rectangle-2905@2x.png"
+      },
+      {
+        "id": 8,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      },
+      {
+        "id": 9,
+        "title": "Top 10 Colleges in India Announced",
+        "description": "The latest rankings for 2024 have been revealed...",
+        "date": "10 Nov 2024",
+        "image": "/rectangle-29052@2x.png"
+      },
+      {
+        "id": 10,
+        "title": "NEET 2024 Exam Date Announced",
+        "description": "The NEET 2024 exam will be held on May 7...",
+        "date": "15 Oct 2023",
+        "image": "/rectangle-29053@2x.png"
+      },
+      {
+        "id": 11,
+        "title": "What is the latest program that you are offering in your institute?",
+        "description": "Lucknow Public College of Professional Studies...",
+        "date": "27 Dec 2020",
+        "image": "/rectangle-2905@2x.png"
+      },
+      {
+        "id": 12,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      },
+      {
+        "id": 13,
+        "title": "What is the latest program that you are offering in your institute?",
+        "description": "Lucknow Public College of Professional Studies...",
+        "date": "27 Dec 2020",
+        "image": "/rectangle-2905@2x.png"
+      },
+      {
+        "id": 14,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      },
+      {
+        "id": 15,
+        "title": "Top 10 Colleges in India Announced",
+        "description": "The latest rankings for 2024 have been revealed...",
+        "date": "10 Nov 2024",
+        "image": "/rectangle-29052@2x.png"
+      },
+      {
+        "id": 16,
+        "title": "NEET 2024 Exam Date Announced",
+        "description": "The NEET 2024 exam will be held on May 7...",
+        "date": "15 Oct 2023",
+        "image": "/rectangle-29053@2x.png"
+      }
+    ],
+    "collegeNews": [
+      {
+        "id": 1,
+        "title": "Top 10 Colleges in India Announced",
+        "description": "The latest rankings for 2024 have been revealed...",
+        "date": "10 Nov 2024",
+        "image": "/rectangle-29052@2x.png"
+      },
+      {
+        "id": 1,
+        "title": "IET Lucknow",
+        "description": "The NEET 2024 exam will be held on May 7...",
+        "date": "15 Oct 2023",
+        "image": "/rectangle-29053@2x.png"
+      }
+    ],
+    "examNews": [
+      {
+        "id": 1,
+        "title": "NEET 2024 Exam Date Announced",
+        "description": "The NEET 2024 exam will be held on May 7...",
+        "date": "15 Oct 2023",
+        "image": "/rectangle-29053@2x.png"
+      },
+      {
+        "id": 1,
+        "title": "JEE 2025 Exam",
+        "description": "The latest rankings for 2024 have been revealed...",
+        "date": "10 Nov 2024",
+        "image": "/rectangle-29052@2x.png"
+      }
+    ],
+    "latestNews": [
+      {
+        "id": 1,
+        "title": "Top 10 Colleges in India Announced",
+        "description": "The latest rankings for 2024 have been revealed...",
+        "date": "10 Nov 2024",
+        "image": "/rectangle-29052@2x.png"
+      },
+      {
+        "id": 2,
+        "title": "NEET 2024 Exam Date Announced",
+        "description": "The NEET 2024 exam will be held on May 7...",
+        "date": "15 Oct 2023",
+        "image": "/rectangle-29053@2x.png"
+      },
+      {
+        "id": 4,
+        "title": "Chitkara University MBA Admission Open",
+        "description": "Chitkara University is accepting applications...",
+        "date": "20 Sep 2023",
+        "image": "/rectangle-29051@2x.png"
+      }
+    ]
+  }
+}
